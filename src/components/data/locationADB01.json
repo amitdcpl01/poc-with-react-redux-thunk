@@ -1,0 +1,35 @@
+{
+	"_id": "ADB01",
+	"closeTime": "24:00",
+	"openTime": "00:00",
+	"taxes": {
+		"mandatory": [],
+		"conditional": []
+	},
+	"city": "Izmir",
+	"IATA_code": "ADB",
+	"country": "TURKEY",
+	"airport": "IZMIR",
+	"platts": 0.9709,
+	"low": 0.14,
+	"high": 0.14,
+	"fueling_location_details": [{
+		"values": [],
+		"label": "Into Plane Agent"
+	}, {
+		"values": [],
+		"label": "Location Contact Details"
+	}, {
+		"values": [],
+		"label": "Notice Information (In case of out of hours fueling)"
+	}, {
+		"values": [],
+		"label": "Opening Hours"
+	}, {
+		"values": [],
+		"label": "Fuels Supplied (Product Type)"
+	}],
+	"status": 200,
+	"deliveryPoint": "ADB01",
+	"airportOpMails": "natasha.sg@in.ibm.com"
+}

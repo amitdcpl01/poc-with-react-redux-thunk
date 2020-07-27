@@ -1,0 +1,4 @@
+export const FETCH_CURRENT_RELEASES = 'FETCH_CURRENT';
+export const FETCH_PAST_RELEASES = 'FETCH_PAST';
+export const FETCH_ALL_LOCATIONS = 'FETCH_LOCS';
+export const CART_COUNT= 'CART_COUNT';

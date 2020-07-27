@@ -1,0 +1,147 @@
+{
+	"_id": "BDU01",
+	"closeTime": "18:00",
+	"openTime": "05:30",
+	"taxes": {
+		"mandatory": [{
+			"label": "Sustainable Aviation Fuel Mandate fee Jet - Into-Plane/Refuelling Service Fees",
+			"value": "79 NOK/CM",
+			"convertedValue": "0.032097 USD/USG",
+			"splitValues": {
+				"parsed": {
+					"value": 79.0,
+					"currency": "NOK",
+					"measure": "CM"
+				},
+				"converted": {
+					"value": 0.032097,
+					"currency": "USD",
+					"measure": "USG"
+				}
+			}
+		}, {
+			"label": "Airport fee Jet - Third Party Charges",
+			"value": "55 NOK/CM",
+			"convertedValue": "0.022346 USD/USG",
+			"splitValues": {
+				"parsed": {
+					"value": 55.0,
+					"currency": "NOK",
+					"measure": "CM"
+				},
+				"converted": {
+					"value": 0.022346,
+					"currency": "USD",
+					"measure": "USG"
+				}
+			}
+		}],
+		"conditional": [{
+			"label": "Excise duty (Jet - tax-reduced into plane) Jet - Duties and Taxes",
+			"value": "1.39 NOK/LT",
+			"convertedValue": "0.56474 USD/USG",
+			"splitValues": {
+				"parsed": {
+					"value": 1.39,
+					"currency": "NOK",
+					"measure": "LT"
+				},
+				"converted": {
+					"value": 0.56474,
+					"currency": "USD",
+					"measure": "USG"
+				}
+			}
+		}, {
+			"label": "Excise duty (Jet - full tax - into plane domestic) Jet - Duties and Taxes",
+			"value": "1.39 NOK/LT",
+			"convertedValue": "0.56474 USD/USG",
+			"splitValues": {
+				"parsed": {
+					"value": 1.39,
+					"currency": "NOK",
+					"measure": "LT"
+				},
+				"converted": {
+					"value": 0.56474,
+					"currency": "USD",
+					"measure": "USG"
+				}
+			}
+		}, {
+			"label": "Night Service Fee Jet - Third Party Charges",
+			"value": "2550 NOK/Uplift",
+			"convertedValue": "273.6915 USD/Uplift",
+			"splitValues": {
+				"parsed": {
+					"value": 2550.0,
+					"currency": "NOK",
+					"measure": "Uplift"
+				},
+				"converted": {
+					"value": 273.6915,
+					"currency": "USD",
+					"measure": "Uplift"
+				}
+			}
+		}, {
+			"label": "Value Added Tax (VAT) Jet - Duties and Taxes",
+			"value": "0.25",
+			"convertedValue": "25 %/",
+			"splitValues": {
+				"parsed": {
+					"value": 25.0,
+					"currency": "%",
+					"measure": ""
+				},
+				"converted": {
+					"value": 25.0,
+					"currency": "%",
+					"measure": ""
+				}
+			}
+		}, {
+			"label": "Overtime Fee Jet - Third Party Charges",
+			"value": "1100 NOK/HR",
+			"convertedValue": "118.063 USD/USG",
+			"splitValues": {
+				"parsed": {
+					"value": 1100.0,
+					"currency": "NOK",
+					"measure": "HR"
+				},
+				"converted": {
+					"value": 118.063,
+					"currency": "USD",
+					"measure": "USG"
+				}
+			}
+		}]
+	},
+	"city": "Bardufoss",
+	"IATA_code": "BDU",
+	"country": "NORWAY",
+	"airport": "Bardufoss Airport",
+	"platts": 0.9761816,
+	"low": 2.46,
+	"high": 2.56,
+	"fueling_location_details": [{
+		"values": [],
+		"label": "Fuels Supplied (Product Type)"
+	}, {
+		"values": ["Air BP via Airport Authority - (Avgas via Self Serve Card only)"],
+		"label": "Into Plane Agent"
+	}, {
+		"values": [],
+		"label": "Location Contact Details"
+	}, {
+		"values": [],
+		"label": "Opening Hours"
+	}, {
+		"values": [],
+		"label": "Notice Information (In case of out of hours fueling)"
+	}],
+	"status": 200,
+	"deliveryPoint": "BDU01",
+	"airportOpMails": "natasha.sg@in.ibm.com"
+}

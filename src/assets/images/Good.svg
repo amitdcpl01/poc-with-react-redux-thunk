@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>g16 Clipped</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 47.5 47.5 47.5 47.5 0 0 0"></polygon>
+    </defs>
+    <g id="On-boarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="On-Boarding---Whats-new-(3)" transform="translate(-646.000000, -530.000000)">
+            <g id="Group-4" transform="translate(121.000000, 262.000000)">
+                <g id="g16-Clipped" transform="translate(549.000000, 290.178405) scale(-1, 1) rotate(-180.000000) translate(-549.000000, -290.178405) translate(525.000000, 266.178405)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path20"></g>
+                    <g id="g16" mask="url(#mask-2)">
+                        <g transform="translate(0.500000, 0.750000)">
+                            <g id="g22" transform="translate(0.000000, 0.000000)">
+                                <path d="M45.4578418,22.5723177 C45.4578418,10.1457 35.3844594,0.0723176839 22.9578418,0.0723176839 C10.5325477,0.0723176839 0.457841776,10.1457 0.457841776,22.5723177 C0.457841776,34.9976118 10.5325477,45.0723177 22.9578418,45.0723177 C35.3844594,45.0723177 45.4578418,34.9976118 45.4578418,22.5723177" id="path24" fill="#FFCC4D" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="g26" transform="translate(12.000000, 23.625000)">
+                                <path d="M6.25,7.5 C6.25,4.3925 4.85125,0.625 3.125,0.625 C1.39875,0.625 0,4.3925 0,7.5 C0,10.60625 1.39875,14.375 3.125,14.375 C4.85125,14.375 6.25,10.60625 6.25,7.5" id="path28" fill="#2C2C2C" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="g30" transform="translate(28.250000, 23.625000)">
+                                <path d="M6.25,7.5 C6.25,4.3925 4.85125,0.625 3.125,0.625 C1.39875,0.625 0,4.3925 0,7.5 C0,10.60625 1.39875,14.375 3.125,14.375 C4.85125,14.375 6.25,10.60625 6.25,7.5" id="path32" fill="#2C2C2C" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="g34" transform="translate(9.500000, 6.750000)">
+                                <path d="M13.75,12.5 C9.22125,12.5 6.21625,13.0275 2.5,13.75 C1.65125,13.91375 0,13.75 0,11.25 C0,6.25 5.74375,0 13.75,0 C21.755,0 27.5,6.25 27.5,11.25 C27.5,13.75 25.84875,13.915 25,13.75 C21.28375,13.0275 18.27875,12.5 13.75,12.5" id="path36" fill="#2C2C2C" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="g38" transform="translate(12.000000, 13.000000)">
+                                <path d="M0,5 C0,5 3.75,3.75 11.25,3.75 C18.75,3.75 22.5,5 22.5,5 C22.5,5 20,0 11.25,0 C2.5,0 0,5 0,5" id="path40" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

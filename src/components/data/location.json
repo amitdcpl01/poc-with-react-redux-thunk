@@ -1,0 +1,2829 @@
+ [{
+	"_id": "AAN01",
+	"city": "AL AIN",
+	"IATA_code": "AAN",
+	"country": "U.A.E.",
+	"airport": "AL AIN",
+	"status": 0
+}, {
+	"_id": "AAS01",
+	"city": "EL ARISH",
+	"IATA_code": "AAS",
+	"country": "EGYPT",
+	"airport": "EL ARISH",
+	"status": 0
+}, {
+	"_id": "ABC01",
+	"city": "ALBACETE",
+	"IATA_code": "ABC",
+	"country": "SPAIN",
+	"airport": "ALBACETE",
+	"status": 0
+}, {
+	"_id": "ABZ01",
+	"city": "ABERDEEN",
+	"IATA_code": "ABZ",
+	"country": "U.K.",
+	"airport": "ABERDEEN",
+	"status": 0
+}, {
+	"_id": "ADA01",
+	"city": "ADANA",
+	"IATA_code": "ADA",
+	"country": "TURKEY",
+	"airport": "ADANA",
+	"status": 0
+}, {
+	"_id": "ADB01",
+	"city": "IZMIR",
+	"IATA_code": "ADB",
+	"country": "TURKEY",
+	"airport": "IZMIR",
+	"status": 0
+}, {
+	"_id": "ADL01",
+	"city": "ADELAIDE",
+	"IATA_code": "ADL",
+	"country": "AUSTRALIA",
+	"airport": "ADELAIDE",
+	"status": 0
+}, {
+	"_id": "AEB01",
+	"city": "BAISE",
+	"IATA_code": "AEB",
+	"country": "CHINA",
+	"airport": "BAISE",
+	"status": 0
+}, {
+	"_id": "AGH01",
+	"city": "ANGELHOLM",
+	"IATA_code": "AGH",
+	"country": "SWEDEN",
+	"airport": "ANGELHOLM",
+	"status": 0
+}, {
+	"_id": "AGP01",
+	"city": "MALAGA",
+	"IATA_code": "AGP",
+	"country": "SPAIN",
+	"airport": "MALAGA",
+	"status": 0
+}, {
+	"_id": "AJA01",
+	"city": "AJACCIO",
+	"IATA_code": "AJA",
+	"country": "FRANCE",
+	"airport": "AJACCIO BONAPARTE",
+	"status": 0
+}, {
+	"_id": "AJR01",
+	"city": "ARVIDSJAUR",
+	"IATA_code": "AJR",
+	"country": "SWEDEN",
+	"airport": "ARVIDSJAUR",
+	"status": 0
+}, {
+	"_id": "AKL01",
+	"city": "AUCKLAND",
+	"IATA_code": "AKL",
+	"country": "NEW ZEALAND",
+	"airport": "AUCKLAND",
+	"status": 0
+}, {
+	"_id": "ALC01",
+	"city": "ALICANTE",
+	"IATA_code": "ALC",
+	"country": "SPAIN",
+	"airport": "ALICANTE",
+	"status": 0
+}, {
+	"_id": "ALF01",
+	"city": "ALTA",
+	"IATA_code": "ALF",
+	"country": "NORWAY",
+	"airport": "ALTA AIRPORT",
+	"status": 0
+}, {
+	"_id": "ALY01",
+	"city": "ALEXANDRIA",
+	"IATA_code": "ALY",
+	"country": "EGYPT",
+	"airport": "ALEXANDRIA",
+	"status": 0
+}, {
+	"_id": "AMS01",
+	"city": "AMSTERDAM",
+	"IATA_code": "AMS",
+	"country": "NETHERLANDS",
+	"airport": "SCHIPHOL",
+	"status": 0
+}, {
+	"_id": "ANG01",
+	"city": "ANGOULEME",
+	"IATA_code": "ANG",
+	"country": "FRANCE",
+	"airport": "ANGOULEME",
+	"status": 0
+}, {
+	"_id": "ANR01",
+	"city": "ANTWERP",
+	"IATA_code": "ANR",
+	"country": "BELGIUM",
+	"airport": "ANTWERP",
+	"status": 0
+}, {
+	"_id": "ANX01",
+	"city": "ANDENES",
+	"IATA_code": "ANX",
+	"country": "NORWAY",
+	"airport": "ANDENES AIRPORT",
+	"status": 0
+}, {
+	"_id": "AOI01",
+	"city": "ANCONA",
+	"IATA_code": "AOI",
+	"country": "ITALY",
+	"airport": "ANCONA",
+	"status": 0
+}, {
+	"_id": "AOK01",
+	"city": "KARPATHOS",
+	"IATA_code": "AOK",
+	"country": "GREECE",
+	"airport": "KARPATHOS",
+	"status": 0
+}, {
+	"_id": "AOT01",
+	"city": "AOSTA",
+	"IATA_code": "AOT",
+	"country": "ITALY",
+	"airport": "AOSTA",
+	"status": 0
+}, {
+	"_id": "APL01",
+	"city": "NAMPULA",
+	"IATA_code": "APL",
+	"country": "MOCAMBIQUE",
+	"airport": "NAMPULA",
+	"status": 0
+}, {
+	"_id": "ARN01",
+	"city": "STOCKHOLM",
+	"IATA_code": "ARN",
+	"country": "SWEDEN",
+	"airport": "STOCKHOLM",
+	"status": 0
+}, {
+	"_id": "ASR01",
+	"city": "KAYSERI",
+	"IATA_code": "ASR",
+	"country": "TURKEY",
+	"airport": "KAYSERI ERKILET",
+	"status": 0
+}, {
+	"_id": "ATH01",
+	"city": "ATHENS",
+	"IATA_code": "ATH",
+	"country": "GREECE",
+	"airport": "ATHENS",
+	"status": 0
+}, {
+	"_id": "AUH01",
+	"city": "ABU DHABI",
+	"IATA_code": "AUH",
+	"country": "U.A.E.",
+	"airport": "ABU DHABI",
+	"status": 0
+}, {
+	"_id": "AYT01",
+	"city": "ANTALYA",
+	"IATA_code": "AYT",
+	"country": "TURKEY",
+	"airport": "ANTALYA",
+	"status": 0
+}, {
+	"_id": "AZI01",
+	"city": "ABU DHABI",
+	"IATA_code": "AZI",
+	"country": "U.A.E.",
+	"airport": "BATEEN",
+	"status": 0
+}, {
+	"_id": "BAH01",
+	"city": "MANAMA",
+	"IATA_code": "BAH",
+	"country": "BAHRAIN",
+	"airport": "BAHRAIN HY",
+	"status": 0
+}, {
+	"_id": "BBU01",
+	"city": "BUCHAREST",
+	"IATA_code": "BBU",
+	"country": "ROMANIA",
+	"airport": "BANEASA",
+	"status": 0
+}, {
+	"_id": "BCN01",
+	"city": "BARCELONA",
+	"IATA_code": "BCN",
+	"country": "SPAIN",
+	"airport": "BARCELONA",
+	"status": 0
+}, {
+	"_id": "BDS01",
+	"city": "BRINDISI",
+	"IATA_code": "BDS",
+	"country": "ITALY",
+	"airport": "BRINDISI",
+	"status": 0
+}, {
+	"_id": "BDU01",
+	"city": "BARDUFOSS",
+	"IATA_code": "BDU",
+	"country": "NORWAY",
+	"airport": "BARDUFOSS AIRPORT",
+	"status": 0
+}, {
+	"_id": "BE201",
+	"city": "BEIRUT",
+	"IATA_code": "BE2",
+	"country": "LEBANON (CENTRE)",
+	"airport": "BEIRUT 2",
+	"status": 0
+}, {
+	"_id": "BEW01",
+	"city": "BEIRA",
+	"IATA_code": "BEW",
+	"country": "MOCAMBIQUE",
+	"airport": "BEIRA",
+	"status": 0
+}, {
+	"_id": "BFS01",
+	"city": "BELFAST",
+	"IATA_code": "BFS",
+	"country": "U.K.",
+	"airport": "BELFAST",
+	"status": 0
+}, {
+	"_id": "BGO01",
+	"city": "BERGEN",
+	"IATA_code": "BGO",
+	"country": "NORWAY",
+	"airport": "BERGEN AIRPORT",
+	"status": 0
+}, {
+	"_id": "BGY01",
+	"city": "BERGAMO",
+	"IATA_code": "BGY",
+	"country": "ITALY",
+	"airport": "BERGAMO",
+	"status": 0
+}, {
+	"_id": "BH901",
+	"city": "BIRMINGHAM",
+	"IATA_code": "BH9",
+	"country": "U.K.",
+	"airport": "BIRMINGHAM",
+	"status": 0
+}, {
+	"_id": "BHD01",
+	"city": "BELFAST",
+	"IATA_code": "BHD",
+	"country": "U.K.",
+	"airport": "BELFAST CI",
+	"status": 0
+}, {
+	"_id": "BHY01",
+	"city": "BEIHAI",
+	"IATA_code": "BHY",
+	"country": "CHINA",
+	"airport": "BEIHAI",
+	"status": 0
+}, {
+	"_id": "BIA01",
+	"city": "BASTIA",
+	"IATA_code": "BIA",
+	"country": "FRANCE",
+	"airport": "BASTIA PORETTA",
+	"status": 0
+}, {
+	"_id": "BIO01",
+	"city": "BILBAO",
+	"IATA_code": "BIO",
+	"country": "SPAIN",
+	"airport": "BILBAO",
+	"status": 0
+}, {
+	"_id": "BIQ01",
+	"city": "BIARRITZ",
+	"IATA_code": "BIQ",
+	"country": "FRANCE",
+	"airport": "BIARRITZ",
+	"status": 0
+}, {
+	"_id": "BJV01",
+	"city": "MILAS",
+	"IATA_code": "BJV",
+	"country": "TURKEY",
+	"airport": "BODRUM",
+	"status": 0
+}, {
+	"_id": "BJZ01",
+	"city": "BADAJOZ",
+	"IATA_code": "BJZ",
+	"country": "SPAIN",
+	"airport": "BADAJOZ",
+	"status": 0
+}, {
+	"_id": "BLE01",
+	"city": "BORLANGE",
+	"IATA_code": "BLE",
+	"country": "SWEDEN",
+	"airport": "BORLANGE",
+	"status": 0
+}, {
+	"_id": "BLK01",
+	"city": "BLACKPOOL",
+	"IATA_code": "BLK",
+	"country": "U.K.",
+	"airport": "BLACKPOOL",
+	"status": 0
+}, {
+	"_id": "BLL01",
+	"city": "BILLUND",
+	"IATA_code": "BLL",
+	"country": "DENMARK",
+	"airport": "BILLUND",
+	"status": 0
+}, {
+	"_id": "BLQ01",
+	"city": "BOLOGNA",
+	"IATA_code": "BLQ",
+	"country": "ITALY",
+	"airport": "BOLOGNA",
+	"status": 0
+}, {
+	"_id": "BMA01",
+	"city": "STOCKHOLM",
+	"IATA_code": "BMA",
+	"country": "SWEDEN",
+	"airport": "BROMMA",
+	"status": 0
+}, {
+	"_id": "BNA01",
+	"city": "NASHVILLE",
+	"IATA_code": "BNA",
+	"country": "U.S.A.",
+	"airport": "NASHVILLE",
+	"status": 0
+}, {
+	"_id": "BNE01",
+	"city": "BRISBANE",
+	"IATA_code": "BNE",
+	"country": "AUSTRALIA",
+	"airport": "BRISBANE",
+	"status": 0
+}, {
+	"_id": "BNN01",
+	"city": "BROENNOEYSUND",
+	"IATA_code": "BNN",
+	"country": "NORWAY",
+	"airport": "BRONNOYSUND AIRPORT",
+	"status": 0
+}, {
+	"_id": "BOO01",
+	"city": "BODO",
+	"IATA_code": "BOO",
+	"country": "NORWAY",
+	"airport": "BODO AIRPORT",
+	"status": 0
+}, {
+	"_id": "BQH01",
+	"city": "LONDON",
+	"IATA_code": "BQH",
+	"country": "U.K.",
+	"airport": "LONDON BIGGIN HILL AIRPORT",
+	"status": 0
+}, {
+	"_id": "BRE01",
+	"city": "BREMEN",
+	"IATA_code": "BRE",
+	"country": "GERMANY",
+	"airport": "BREMEN",
+	"status": 0
+}, {
+	"_id": "BRI01",
+	"city": "BARI",
+	"IATA_code": "BRI",
+	"country": "ITALY",
+	"airport": "BARI",
+	"status": 0
+}, {
+	"_id": "BRS01",
+	"city": "BRISTOL",
+	"IATA_code": "BRS",
+	"country": "U.K.",
+	"airport": "BRISTOL",
+	"status": 0
+}, {
+	"_id": "BRU01",
+	"city": "BRUSSELS",
+	"IATA_code": "BRU",
+	"country": "BELGIUM",
+	"airport": "BRUSSELS",
+	"status": 0
+}, {
+	"_id": "BSL01",
+	"city": "BÂLE/MULHOUSE",
+	"IATA_code": "BSL",
+	"country": "SWITZ",
+	"airport": "BASEL",
+	"status": 0
+}, {
+	"_id": "BUD01",
+	"city": "BUDAPEST",
+	"IATA_code": "BUD",
+	"country": "HUNGARY",
+	"airport": "BUDAPEST F",
+	"status": 0
+}, {
+	"_id": "BVE01",
+	"city": "BRIVE-LA-GAILLARDE",
+	"IATA_code": "BVE",
+	"country": "FRANCE",
+	"airport": "BRIVE",
+	"status": 0
+}, {
+	"_id": "BVG01",
+	"city": "BERLEVAG",
+	"IATA_code": "BVG",
+	"country": "NORWAY",
+	"airport": "BERLEVAG AIRPORT",
+	"status": 0
+}, {
+	"_id": "CA501",
+	"city": "CAIRO",
+	"IATA_code": "CA5",
+	"country": "EGYPT",
+	"airport": "CAIRO",
+	"status": 0
+}, {
+	"_id": "CAG01",
+	"city": "CAGLIARI",
+	"IATA_code": "CAG",
+	"country": "ITALY",
+	"airport": "CAGLIARI",
+	"status": 0
+}, {
+	"_id": "CAN01",
+	"city": "GUANGZHOU",
+	"IATA_code": "CAN",
+	"country": "CHINA",
+	"airport": "GUANGZHOU",
+	"status": 0
+}, {
+	"_id": "CAX01",
+	"city": "CARLISLE",
+	"IATA_code": "CAX",
+	"country": "U.K.",
+	"airport": "CARLISLE",
+	"status": 0
+}, {
+	"_id": "CCF01",
+	"city": "CARCASSONNE",
+	"IATA_code": "CCF",
+	"country": "FRANCE",
+	"airport": "CARCASSON",
+	"status": 0
+}, {
+	"_id": "CDG01",
+	"city": "PARIS",
+	"IATA_code": "CDG",
+	"country": "FRANCE",
+	"airport": "ROISSY",
+	"status": 0
+}, {
+	"_id": "CDT01",
+	"city": "0",
+	"IATA_code": "CDT",
+	"country": "SPAIN",
+	"airport": "AEROPUERTO DE CASTELLON (LECH)",
+	"status": 0
+}, {
+	"_id": "CEG01",
+	"city": "CHESTER",
+	"IATA_code": "CEG",
+	"country": "U.K.",
+	"airport": "CHESTER",
+	"status": 0
+}, {
+	"_id": "CFE01",
+	"city": "CLERMONT-FERRAND",
+	"IATA_code": "CFE",
+	"country": "FRANCE",
+	"airport": "CLERMONT",
+	"status": 0
+}, {
+	"_id": "CFR01",
+	"city": "CAEN",
+	"IATA_code": "CFR",
+	"country": "FRANCE",
+	"airport": "CAEN",
+	"status": 0
+}, {
+	"_id": "CFU01",
+	"city": "KERKIRA",
+	"IATA_code": "CFU",
+	"country": "GREECE",
+	"airport": "CORFU",
+	"status": 0
+}, {
+	"_id": "CGD01",
+	"city": "CHANGDE",
+	"IATA_code": "CGD",
+	"country": "CHINA",
+	"airport": "CHANGDE",
+	"status": 0
+}, {
+	"_id": "CGN01",
+	"city": "COLOGNE-BONN",
+	"IATA_code": "CGN",
+	"country": "GERMANY",
+	"airport": "COLOGNE",
+	"status": 0
+}, {
+	"_id": "CGO01",
+	"city": "ZHENGZHOU",
+	"IATA_code": "CGO",
+	"country": "CHINA",
+	"airport": "ZHENGZHOU",
+	"status": 0
+}, {
+	"_id": "CHC01",
+	"city": "CHRISTCHURCH",
+	"IATA_code": "CHC",
+	"country": "NEW ZEALAND",
+	"airport": "CHRISTCHURCH",
+	"status": 0
+}, {
+	"_id": "CHQ01",
+	"city": "CHANIA",
+	"IATA_code": "CHQ",
+	"country": "GREECE",
+	"airport": "CHANIA",
+	"status": 0
+}, {
+	"_id": "CIA01",
+	"city": "ROME",
+	"IATA_code": "CIA",
+	"country": "ITALY",
+	"airport": "CIAMPINO",
+	"status": 0
+}, {
+	"_id": "CLY01",
+	"city": "CALVI",
+	"IATA_code": "CLY",
+	"country": "FRANCE",
+	"airport": "CALVI",
+	"status": 0
+}, {
+	"_id": "CMF01",
+	"city": "CHAMBERY",
+	"IATA_code": "CMF",
+	"country": "FRANCE",
+	"airport": "CHAMBERY",
+	"status": 0
+}, {
+	"_id": "CMR01",
+	"city": "COLMAR",
+	"IATA_code": "CMR",
+	"country": "FRANCE",
+	"airport": "COLMAR",
+	"status": 0
+}, {
+	"_id": "CND01",
+	"city": "CONSTANTA",
+	"IATA_code": "CND",
+	"country": "ROMANIA",
+	"airport": "CONSTANZA",
+	"status": 0
+}, {
+	"_id": "CNS01",
+	"city": "CAIRNS",
+	"IATA_code": "CNS",
+	"country": "AUSTRALIA",
+	"airport": "CAIRNS",
+	"status": 0
+}, {
+	"_id": "CPH01",
+	"city": "COPENHAGEN",
+	"IATA_code": "CPH",
+	"country": "DENMARK",
+	"airport": "COPENHAGEN",
+	"status": 0
+}, {
+	"_id": "CPT01",
+	"city": "CAPE TOWN",
+	"IATA_code": "CPT",
+	"country": "S.AFRICA",
+	"airport": "CAPETOWN",
+	"status": 0
+}, {
+	"_id": "CSAX01",
+	"city": "CASTELLON DE LA PLANA",
+	"IATA_code": "CSAX",
+	"country": "SPAIN",
+	"airport": "CASTELLON DE LA PLANA (LECN)",
+	"status": 0
+}, {
+	"_id": "CSX01",
+	"city": "CHANGSHA",
+	"IATA_code": "CSX",
+	"country": "CHINA",
+	"airport": "CHANGSHA",
+	"status": 0
+}, {
+	"_id": "CTA01",
+	"city": "CATANIA",
+	"IATA_code": "CTA",
+	"country": "ITALY",
+	"airport": "CATANIA",
+	"status": 0
+}, {
+	"_id": "CVT01",
+	"city": "COVENTRY",
+	"IATA_code": "CVT",
+	"country": "U.K.",
+	"airport": "COVENTRY AIRPORT",
+	"status": 0
+}, {
+	"_id": "CWL01",
+	"city": "CARDIFF",
+	"IATA_code": "CWL",
+	"country": "U.K.",
+	"airport": "CARDIFF",
+	"status": 0
+}, {
+	"_id": "DBV01",
+	"city": "DUBROVNIK",
+	"IATA_code": "DBV",
+	"country": "CROATIA",
+	"airport": "DUBROVNIK",
+	"status": 0
+}, {
+	"_id": "DCM01",
+	"city": "CASTRES",
+	"IATA_code": "DCM",
+	"country": "FRANCE",
+	"airport": "CASTRES",
+	"status": 0
+}, {
+	"_id": "DHA01",
+	"city": "DHAHRAN",
+	"IATA_code": "DHA",
+	"country": "SAUDI ARAB",
+	"airport": "DAHRAN",
+	"status": 0
+}, {
+	"_id": "DJE01",
+	"city": "DJERBA",
+	"IATA_code": "DJE",
+	"country": "TUNISIA",
+	"airport": "DJERBA AIRPORT",
+	"status": 0
+}, {
+	"_id": "DLC01",
+	"city": "DALIAN",
+	"IATA_code": "DLC",
+	"country": "CHINA",
+	"airport": "DALIAN",
+	"status": 0
+}, {
+	"_id": "DLE01",
+	"city": "DOLE",
+	"IATA_code": "DLE",
+	"country": "FRANCE",
+	"airport": "DOLE",
+	"status": 0
+}, {
+	"_id": "DLM01",
+	"city": "DALAMAN",
+	"IATA_code": "DLM",
+	"country": "TURKEY",
+	"airport": "DALAMAN",
+	"status": 0
+}, {
+	"_id": "DNR01",
+	"city": "DINARD",
+	"IATA_code": "DNR",
+	"country": "FRANCE",
+	"airport": "DINARD",
+	"status": 0
+}, {
+	"_id": "DOL01",
+	"city": "DEAUVILLE",
+	"IATA_code": "DOL",
+	"country": "FRANCE",
+	"airport": "DEAUVILLE",
+	"status": 0
+}, {
+	"_id": "DRS01",
+	"city": "DRESDEN",
+	"IATA_code": "DRS",
+	"country": "GERMANY",
+	"airport": "DRESDEN",
+	"status": 0
+}, {
+	"_id": "DRW01",
+	"city": "DARWIN",
+	"IATA_code": "DRW",
+	"country": "AUSTRALIA",
+	"airport": "DARWIN",
+	"status": 0
+}, {
+	"_id": "DTW01",
+	"city": "DETROIT",
+	"IATA_code": "DTW",
+	"country": "U.S.A.",
+	"airport": "DETROIT",
+	"status": 0
+}, {
+	"_id": "DUR01",
+	"city": "DURBAN",
+	"IATA_code": "DUR",
+	"country": "S.AFRICA",
+	"airport": "DURBAN",
+	"status": 0
+}, {
+	"_id": "DUS01",
+	"city": "DUSSELDORF",
+	"IATA_code": "DUS",
+	"country": "GERMANY",
+	"airport": "DUSSELDORF",
+	"status": 0
+}, {
+	"_id": "DWC01",
+	"city": "DUBAI",
+	"IATA_code": "DWC",
+	"country": "U.A.E.",
+	"airport": "AL MAKTOUM",
+	"status": 0
+}, {
+	"_id": "DXB01",
+	"city": "DUBAI",
+	"IATA_code": "DXB",
+	"country": "U.A.E.",
+	"airport": "DUBAI",
+	"status": 0
+}, {
+	"_id": "DYG01",
+	"city": "ZHANGJIAJIE",
+	"IATA_code": "DYG",
+	"country": "CHINA",
+	"airport": "ZHANGJIAJIE",
+	"status": 0
+}, {
+	"_id": "EAS01",
+	"city": "SAN SEBASTIAN",
+	"IATA_code": "EAS",
+	"country": "SPAIN",
+	"airport": "SAN SEBAST",
+	"status": 0
+}, {
+	"_id": "EBL01",
+	"city": "ERBIL",
+	"IATA_code": "EBL",
+	"country": "IRAQ",
+	"airport": "ERBIL",
+	"status": 0
+}, {
+	"_id": "EDI01",
+	"city": "EDINBURGH",
+	"IATA_code": "EDI",
+	"country": "U.K.",
+	"airport": "EDINBURGH",
+	"status": 0
+}, {
+	"_id": "EFL01",
+	"city": "KEFALLINIA",
+	"IATA_code": "EFL",
+	"country": "GREECE",
+	"airport": "KEFALLONIA",
+	"status": 0
+}, {
+	"_id": "ELS01",
+	"city": "EAST LONDON",
+	"IATA_code": "ELS",
+	"country": "S.AFRICA",
+	"airport": "EAST LOND",
+	"status": 0
+}, {
+	"_id": "EMA01",
+	"city": "NOTTINGHAM DERBY LEICESTER",
+	"IATA_code": "EMA",
+	"country": "U.K.",
+	"airport": "EAST MIDS",
+	"status": 0
+}, {
+	"_id": "ENH01",
+	"city": "ENSHI",
+	"IATA_code": "ENH",
+	"country": "CHINA",
+	"airport": "ENSHI",
+	"status": 0
+}, {
+	"_id": "ENKJ01",
+	"city": "OSLO",
+	"IATA_code": "ENKJ",
+	"country": "NORWAY",
+	"airport": "KJELLER AIRPORT",
+	"status": 0
+}, {
+	"_id": "ESB01",
+	"city": "ANKARA",
+	"IATA_code": "ESB",
+	"country": "TURKEY",
+	"airport": "ANKORA ESENBOGA",
+	"status": 0
+}, {
+	"_id": "ESH01",
+	"city": "SHOREHAM",
+	"IATA_code": "ESH",
+	"country": "U.K.",
+	"airport": "BRIGHTON CITY AIRPORT",
+	"status": 0
+}, {
+	"_id": "EVE01",
+	"city": "HARSTAD/NARVIK",
+	"IATA_code": "EVE",
+	"country": "NORWAY",
+	"airport": "EVENES AIRPORT",
+	"status": 0
+}, {
+	"_id": "EWR01",
+	"city": "NEWARK",
+	"IATA_code": "EWR",
+	"country": "U.S.A.",
+	"airport": "NEWARK",
+	"status": 0
+}, {
+	"_id": "EXT01",
+	"city": "EXETER",
+	"IATA_code": "EXT",
+	"country": "U.K.",
+	"airport": "EXETER AND DEVON AIRPORT",
+	"status": 0
+}, {
+	"_id": "FAE01",
+	"city": "VAGAR - FAROE ISLANDS",
+	"IATA_code": "FAE",
+	"country": "DENMARK",
+	"airport": "VAGAR (FAROE ISLANDS)",
+	"status": 0
+}, {
+	"_id": "FAO01",
+	"city": "FARO",
+	"IATA_code": "FAO",
+	"country": "PORTUGAL",
+	"airport": "FARO",
+	"status": 0
+}, {
+	"_id": "FCO01",
+	"city": "ROME",
+	"IATA_code": "FCO",
+	"country": "ITALY",
+	"airport": "FIUMICINO",
+	"status": 0
+}, {
+	"_id": "FDE01",
+	"city": "FORDE",
+	"IATA_code": "FDE",
+	"country": "NORWAY",
+	"airport": "FORDE AIRPORT",
+	"status": 0
+}, {
+	"_id": "FDH01",
+	"city": "FRIEDRICHSHAFEN",
+	"IATA_code": "FDH",
+	"country": "GERMANY",
+	"airport": "FRIEDRICHSHAFEN",
+	"status": 0
+}, {
+	"_id": "FJR01",
+	"city": "FUJAIRAH",
+	"IATA_code": "FJR",
+	"country": "U.A.E.",
+	"airport": "FUJAIRAH",
+	"status": 0
+}, {
+	"_id": "FKB01",
+	"city": "BADEN-BADEN",
+	"IATA_code": "FKB",
+	"country": "GERMANY",
+	"airport": "BADEN",
+	"status": 0
+}, {
+	"_id": "FLR01",
+	"city": "FLORENCE",
+	"IATA_code": "FLR",
+	"country": "ITALY",
+	"airport": "FLORENCE",
+	"status": 0
+}, {
+	"_id": "FMM01",
+	"city": "MEMMINGEN",
+	"IATA_code": "FMM",
+	"country": "GERMANY",
+	"airport": "MEMMINGEN",
+	"status": 0
+}, {
+	"_id": "FMO01",
+	"city": "MUNSTER OSNABRUCK",
+	"IATA_code": "FMO",
+	"country": "GERMANY",
+	"airport": "MUENSTER",
+	"status": 0
+}, {
+	"_id": "FRA01",
+	"city": "FRANKFURT",
+	"IATA_code": "FRA",
+	"country": "GERMANY",
+	"airport": "FRANKFURT",
+	"status": 0
+}, {
+	"_id": "FRO01",
+	"city": "FLORO",
+	"IATA_code": "FRO",
+	"country": "NORWAY",
+	"airport": "FLORO AIRPORT",
+	"status": 0
+}, {
+	"_id": "FUE01",
+	"city": "FUERTEVENTURA",
+	"IATA_code": "FUE",
+	"country": "SPAIN",
+	"airport": "FUERTEVENTURA",
+	"status": 0
+}, {
+	"_id": "GDN01",
+	"city": "GDANSK",
+	"IATA_code": "GDN",
+	"country": "POLAND",
+	"airport": "GDANSK",
+	"status": 0
+}, {
+	"_id": "GGV01",
+	"city": "GRENOBLE",
+	"IATA_code": "GGV",
+	"country": "FRANCE",
+	"airport": "GRENOBLE LE VERSOUD (LFLG)",
+	"status": 0
+}, {
+	"_id": "GLA01",
+	"city": "GLASGOW",
+	"IATA_code": "GLA",
+	"country": "U.K.",
+	"airport": "GLASGOW",
+	"status": 0
+}, {
+	"_id": "GNB01",
+	"city": "GRENOBLE",
+	"IATA_code": "GNB",
+	"country": "FRANCE",
+	"airport": "GRENOBLE ISERES (LFLS)",
+	"status": 0
+}, {
+	"_id": "GOA01",
+	"city": "GENOA",
+	"IATA_code": "GOA",
+	"country": "ITALY",
+	"airport": "GENOA",
+	"status": 0
+}, {
+	"_id": "GOT01",
+	"city": "GOTHENBURG",
+	"IATA_code": "GOT",
+	"country": "SWEDEN",
+	"airport": "GOTHENBURG",
+	"status": 0
+}, {
+	"_id": "GPA01",
+	"city": "PATRAS",
+	"IATA_code": "GPA",
+	"country": "GREECE",
+	"airport": "PATRAS",
+	"status": 0
+}, {
+	"_id": "GRJ01",
+	"city": "GEORGE",
+	"IATA_code": "GRJ",
+	"country": "S.AFRICA",
+	"airport": "GEORGE",
+	"status": 0
+}, {
+	"_id": "GRO01",
+	"city": "GIRONA",
+	"IATA_code": "GRO",
+	"country": "SPAIN",
+	"airport": "GERONA",
+	"status": 0
+}, {
+	"_id": "GRZ01",
+	"city": "GRAZ",
+	"IATA_code": "GRZ",
+	"country": "AUSTRIA",
+	"airport": "GRAZ",
+	"status": 0
+}, {
+	"_id": "GVA01",
+	"city": "GENEVA",
+	"IATA_code": "GVA",
+	"country": "SWITZ",
+	"airport": "GENEVA",
+	"status": 0
+}, {
+	"_id": "GZT01",
+	"city": "GAZIANTEP",
+	"IATA_code": "GZT",
+	"country": "TURKEY",
+	"airport": "GAZIANTEP OGUZELI",
+	"status": 0
+}, {
+	"_id": "HAD01",
+	"city": "HALMSTAD",
+	"IATA_code": "HAD",
+	"country": "SWEDEN",
+	"airport": "HALMSTAD",
+	"status": 0
+}, {
+	"_id": "HAJ01",
+	"city": "HANNOVER",
+	"IATA_code": "HAJ",
+	"country": "GERMANY",
+	"airport": "HANNOVER",
+	"status": 0
+}, {
+	"_id": "HAM01",
+	"city": "HAMBURG",
+	"IATA_code": "HAM",
+	"country": "GERMANY",
+	"airport": "HAMBURG",
+	"status": 0
+}, {
+	"_id": "HAU01",
+	"city": "HAUGESUND",
+	"IATA_code": "HAU",
+	"country": "NORWAY",
+	"airport": "HAUGESUND AIRPORT",
+	"status": 0
+}, {
+	"_id": "HBE01",
+	"city": "ALEXANDRIA",
+	"IATA_code": "HBE",
+	"country": "EGYPT",
+	"airport": "BORG EL ARAB",
+	"status": 0
+}, {
+	"_id": "HCJ01",
+	"city": "HECHI",
+	"IATA_code": "HCJ",
+	"country": "CHINA",
+	"airport": "HECHI",
+	"status": 0
+}, {
+	"_id": "HEL01",
+	"city": "HELSINKI",
+	"IATA_code": "HEL",
+	"country": "FINLAND",
+	"airport": "HELSINKI",
+	"status": 0
+}, {
+	"_id": "HER01",
+	"city": "HERAKLION",
+	"IATA_code": "HER",
+	"country": "GREECE",
+	"airport": "HERAKLION",
+	"status": 0
+}, {
+	"_id": "HFT01",
+	"city": "PRAERIEN",
+	"IATA_code": "HFT",
+	"country": "NORWAY",
+	"airport": "HAMMERFEST AIRPORT",
+	"status": 0
+}, {
+	"_id": "HGH01",
+	"city": "HANGZHOU",
+	"IATA_code": "HGH",
+	"country": "CHINA",
+	"airport": "HANGZHOU",
+	"status": 0
+}, {
+	"_id": "HHN01",
+	"city": "FRANKFURT",
+	"IATA_code": "HHN",
+	"country": "GERMANY",
+	"airport": "HAHN",
+	"status": 0
+}, {
+	"_id": "HJJ01",
+	"city": "HUAIHUA",
+	"IATA_code": "HJJ",
+	"country": "CHINA",
+	"airport": "ZHIJIANG",
+	"status": 0
+}, {
+	"_id": "HMR01",
+	"city": "HAMAR",
+	"IATA_code": "HMR",
+	"country": "NORWAY",
+	"airport": "HAMAR AIRPORT",
+	"status": 0
+}, {
+	"_id": "HNY01",
+	"city": "0",
+	"IATA_code": "HNY",
+	"country": "CHINA",
+	"airport": "HENGYANG",
+	"status": 0
+}, {
+	"_id": "HOV01",
+	"city": "�RSTA",
+	"IATA_code": "HOV",
+	"country": "NORWAY",
+	"airport": "VOLDA AIRPORT, ORSTA",
+	"status": 0
+}, {
+	"_id": "HPG01",
+	"city": "SHENNONGJIA",
+	"IATA_code": "HPG",
+	"country": "CHINA",
+	"airport": "SHENNONGJIA",
+	"status": 0
+}, {
+	"_id": "HUY01",
+	"city": "HUMBERSIDE",
+	"IATA_code": "HUY",
+	"country": "U.K.",
+	"airport": "HUMBERSIDE AIRPORT",
+	"status": 0
+}, {
+	"_id": "HVG01",
+	"city": "VALAN",
+	"IATA_code": "HVG",
+	"country": "NORWAY",
+	"airport": "HONNINGSVAG AIRPORT",
+	"status": 0
+}, {
+	"_id": "IBZ01",
+	"city": "IBIZA",
+	"IATA_code": "IBZ",
+	"country": "SPAIN",
+	"airport": "IBIZA",
+	"status": 0
+}, {
+	"_id": "ILD01",
+	"city": "LLEIDA",
+	"IATA_code": "ILD",
+	"country": "SPAIN",
+	"airport": "LLEIDA",
+	"status": 0
+}, {
+	"_id": "INN01",
+	"city": "INNSBRUCK",
+	"IATA_code": "INN",
+	"country": "AUSTRIA",
+	"airport": "INNSBRUCK",
+	"status": 0
+}, {
+	"_id": "INV01",
+	"city": "INVERNESS",
+	"IATA_code": "INV",
+	"country": "U.K.",
+	"airport": "INVERNESS",
+	"status": 0
+}, {
+	"_id": "ISL01",
+	"city": "ISTANBUL",
+	"IATA_code": "ISL",
+	"country": "TURKEY",
+	"airport": "ISTANBUL ATATURK AIRPORT",
+	"status": 0
+}, {
+	"_id": "JED01",
+	"city": "JEDDAH",
+	"IATA_code": "JED",
+	"country": "SAUDI ARAB",
+	"airport": "JEDDAH",
+	"status": 0
+}, {
+	"_id": "JKG01",
+	"city": "JONKOPING",
+	"IATA_code": "JKG",
+	"country": "SWEDEN",
+	"airport": "JONKOPING",
+	"status": 0
+}, {
+	"_id": "JMK01",
+	"city": "MYKONOS",
+	"IATA_code": "JMK",
+	"country": "GREECE",
+	"airport": "MIKONOS",
+	"status": 0
+}, {
+	"_id": "JNB01",
+	"city": "JOHANNESBURG",
+	"IATA_code": "JNB",
+	"country": "S.AFRICA",
+	"airport": "JOBURG",
+	"status": 0
+}, {
+	"_id": "JTR01",
+	"city": "THIRA",
+	"IATA_code": "JTR",
+	"country": "GREECE",
+	"airport": "SANTORINI",
+	"status": 0
+}, {
+	"_id": "KBP01",
+	"city": "KIEV",
+	"IATA_code": "KBP",
+	"country": "UKRAINE",
+	"airport": "KIEV BORIS",
+	"status": 0
+}, {
+	"_id": "KEF01",
+	"city": "KEFLAVIK",
+	"IATA_code": "KEF",
+	"country": "ICELAND",
+	"airport": "KEFLAVIK",
+	"status": 0
+}, {
+	"_id": "KGS01",
+	"city": "KOS",
+	"IATA_code": "KGS",
+	"country": "GREECE",
+	"airport": "KOS",
+	"status": 0
+}, {
+	"_id": "KID01",
+	"city": "KRISTIANSTAD",
+	"IATA_code": "KID",
+	"country": "SWEDEN",
+	"airport": "KRISTIANSTAD",
+	"status": 0
+}, {
+	"_id": "KIN01",
+	"city": "KINGSTON",
+	"IATA_code": "KIN",
+	"country": "JAMAICA",
+	"airport": "KINGSTON",
+	"status": 0
+}, {
+	"_id": "KJA01",
+	"city": "KRASNOYARSK",
+	"IATA_code": "KJA",
+	"country": "RUSSIA",
+	"airport": "YEMELYANOVO KRASNOYARS",
+	"status": 0
+}, {
+	"_id": "KKN01",
+	"city": "KIRKENES",
+	"IATA_code": "KKN",
+	"country": "NORWAY",
+	"airport": "KIRKENES AIRPORT",
+	"status": 0
+}, {
+	"_id": "KLR01",
+	"city": "KALMAR",
+	"IATA_code": "KLR",
+	"country": "SWEDEN",
+	"airport": "KALMAR",
+	"status": 0
+}, {
+	"_id": "KLX01",
+	"city": "KALAMATA",
+	"IATA_code": "KLX",
+	"country": "GREECE",
+	"airport": "KALAMATA",
+	"status": 0
+}, {
+	"_id": "KOI01",
+	"city": "KIRKWALL",
+	"IATA_code": "KOI",
+	"country": "U.K.",
+	"airport": "KIRKWALL",
+	"status": 0
+}, {
+	"_id": "KRP01",
+	"city": "KARUP",
+	"IATA_code": "KRP",
+	"country": "DENMARK",
+	"airport": "KARUP",
+	"status": 0
+}, {
+	"_id": "KSD01",
+	"city": "KARLSTAD",
+	"IATA_code": "KSD",
+	"country": "SWEDEN",
+	"airport": "KARLSTAD",
+	"status": 0
+}, {
+	"_id": "KSF01",
+	"city": "KASSEL",
+	"IATA_code": "KSF",
+	"country": "GERMANY",
+	"airport": "KASSEL-CALDEN",
+	"status": 0
+}, {
+	"_id": "KTW01",
+	"city": "KATOWICE",
+	"IATA_code": "KTW",
+	"country": "POLAND",
+	"airport": "KATOWICE",
+	"status": 0
+}, {
+	"_id": "KVA01",
+	"city": "KAVALA",
+	"IATA_code": "KVA",
+	"country": "GREECE",
+	"airport": "KAVALA",
+	"status": 0
+}, {
+	"_id": "KWL01",
+	"city": "GUILIN",
+	"IATA_code": "KWL",
+	"country": "CHINA",
+	"airport": "GUILIN",
+	"status": 0
+}, {
+	"_id": "LC901",
+	"city": "LONDON",
+	"IATA_code": "LC9",
+	"country": "U.K.",
+	"airport": "LONDON CITY AIRPORT",
+	"status": 0
+}, {
+	"_id": "LCA01",
+	"city": "LARNACA",
+	"IATA_code": "LCA",
+	"country": "CYPRUS",
+	"airport": "LARNACA",
+	"status": 0
+}, {
+	"_id": "LCG01",
+	"city": "LA CORUNA",
+	"IATA_code": "LCG",
+	"country": "SPAIN",
+	"airport": "LA CORUNA",
+	"status": 0
+}, {
+	"_id": "LEI01",
+	"city": "ALMERIA",
+	"IATA_code": "LEI",
+	"country": "SPAIN",
+	"airport": "ALMERIA",
+	"status": 0
+}, {
+	"_id": "LEJ01",
+	"city": "LEIPZIG",
+	"IATA_code": "LEJ",
+	"country": "GERMANY",
+	"airport": "LEIPZIG",
+	"status": 0
+}, {
+	"_id": "LGG01",
+	"city": "LIEGE",
+	"IATA_code": "LGG",
+	"country": "BELGIUM",
+	"airport": "LIEGE",
+	"status": 0
+}, {
+	"_id": "LGW01",
+	"city": "LONDON",
+	"IATA_code": "LGW",
+	"country": "U.K.",
+	"airport": "GATWICK",
+	"status": 0
+}, {
+	"_id": "LHR01",
+	"city": "LONDON",
+	"IATA_code": "LHR",
+	"country": "U.K.",
+	"airport": "HEATHROW",
+	"status": 0
+}, {
+	"_id": "LIG01",
+	"city": "LIMOGES",
+	"IATA_code": "LIG",
+	"country": "FRANCE",
+	"airport": "LIMOGES",
+	"status": 0
+}, {
+	"_id": "LIN01",
+	"city": "MILAN",
+	"IATA_code": "LIN",
+	"country": "ITALY",
+	"airport": "MILANO LINATE",
+	"status": 0
+}, {
+	"_id": "LIS01",
+	"city": "LISBON",
+	"IATA_code": "LIS",
+	"country": "PORTUGAL",
+	"airport": "PORTELA",
+	"status": 0
+}, {
+	"_id": "LJU01",
+	"city": "LJUBLJANA",
+	"IATA_code": "LJU",
+	"country": "SLOVENIA",
+	"airport": "LJUBLJANA",
+	"status": 0
+}, {
+	"_id": "LKL01",
+	"city": "LAKSELV",
+	"IATA_code": "LKL",
+	"country": "NORWAY",
+	"airport": "BANAK AIRPORT, LAKSELV",
+	"status": 0
+}, {
+	"_id": "LP901",
+	"city": "LIVERPOOL",
+	"IATA_code": "LP9",
+	"country": "U.K.",
+	"airport": "LIVERPOOL AVIATION SERVICES",
+	"status": 0
+}, {
+	"_id": "LPA01",
+	"city": "LAS PALMAS",
+	"IATA_code": "LPA",
+	"country": "SPAIN",
+	"airport": "LAS PALMAS",
+	"status": 0
+}, {
+	"_id": "LSI01",
+	"city": "SHETLAND IS",
+	"IATA_code": "LSI",
+	"country": "U.K.",
+	"airport": "SUMBURGH",
+	"status": 0
+}, {
+	"_id": "LTN01",
+	"city": "LONDON",
+	"IATA_code": "LTN",
+	"country": "U.K.",
+	"airport": "LUTON GA SIGNATURE T1",
+	"status": 0
+}, {
+	"_id": "LUX01",
+	"city": "LUXEMBOURG",
+	"IATA_code": "LUX",
+	"country": "LUXEMBOURG",
+	"airport": "FINDEL",
+	"status": 0
+}, {
+	"_id": "LUZ01",
+	"city": "LUBLIN",
+	"IATA_code": "LUZ",
+	"country": "POLAND",
+	"airport": "LUBLIN",
+	"status": 0
+}, {
+	"_id": "LYC01",
+	"city": "LYCKSELE",
+	"IATA_code": "LYC",
+	"country": "SWEDEN",
+	"airport": "LYCKSELE",
+	"status": 0
+}, {
+	"_id": "LYS01",
+	"city": "LYON",
+	"IATA_code": "LYS",
+	"country": "FRANCE",
+	"airport": "LYON SATOL",
+	"status": 0
+}, {
+	"_id": "LYX01",
+	"city": "LYDD",
+	"IATA_code": "LYX",
+	"country": "U.K.",
+	"airport": "LONDON ASHFORD AIRPORT",
+	"status": 0
+}, {
+	"_id": "LZH01",
+	"city": "LIUZHOU",
+	"IATA_code": "LZH",
+	"country": "CHINA",
+	"airport": "LIUZHOU",
+	"status": 0
+}, {
+	"_id": "MAD01",
+	"city": "MADRID",
+	"IATA_code": "MAD",
+	"country": "SPAIN",
+	"airport": "MADRID",
+	"status": 0
+}, {
+	"_id": "MAH01",
+	"city": "MENORCA",
+	"IATA_code": "MAH",
+	"country": "SPAIN",
+	"airport": "MAHON",
+	"status": 0
+}, {
+	"_id": "MAN01",
+	"city": "MANCHESTER",
+	"IATA_code": "MAN",
+	"country": "U.K.",
+	"airport": "MANCHESTER",
+	"status": 0
+}, {
+	"_id": "MCT01",
+	"city": "MUSCAT",
+	"IATA_code": "MCT",
+	"country": "OMAN",
+	"airport": "SEEB",
+	"status": 0
+}, {
+	"_id": "MDW01",
+	"city": "CHICAGO",
+	"IATA_code": "MDW",
+	"country": "U.S.A.",
+	"airport": "CHICAGO - MDW",
+	"status": 0
+}, {
+	"_id": "MED01",
+	"city": "MEDINA",
+	"IATA_code": "MED",
+	"country": "SAUDI ARAB",
+	"airport": "MEDINA",
+	"status": 0
+}, {
+	"_id": "MEH01",
+	"city": "9770 MEHAMN",
+	"IATA_code": "MEH",
+	"country": "NORWAY",
+	"airport": "MEHAMN AIRPORT",
+	"status": 0
+}, {
+	"_id": "MEL01",
+	"city": "MELBOURNE",
+	"IATA_code": "MEL",
+	"country": "AUSTRALIA",
+	"airport": "MELBOURNE JUHI",
+	"status": 0
+}, {
+	"_id": "MIR01",
+	"city": "MONASTIR",
+	"IATA_code": "MIR",
+	"country": "TUNISIA",
+	"airport": "SKANES MONASTIR",
+	"status": 0
+}, {
+	"_id": "MJF01",
+	"city": "MOSJOEN",
+	"IATA_code": "MJF",
+	"country": "NORWAY",
+	"airport": "MOSJOEN AIRPORT",
+	"status": 0
+}, {
+	"_id": "MJT01",
+	"city": "MYTILENE ISLAND",
+	"IATA_code": "MJT",
+	"country": "GREECE",
+	"airport": "MYTILENE",
+	"status": 0
+}, {
+	"_id": "MKE01",
+	"city": "MILWAUKEE",
+	"IATA_code": "MKE",
+	"country": "U.S.A.",
+	"airport": "MILWAUKEE",
+	"status": 0
+}, {
+	"_id": "MLA01",
+	"city": "VALLETTA",
+	"IATA_code": "MLA",
+	"country": "MALTA",
+	"airport": "MALTA LUQA AIRPORT",
+	"status": 0
+}, {
+	"_id": "MLH01",
+	"city": "BASEL",
+	"IATA_code": "MLH",
+	"country": "FRANCE",
+	"airport": "MULHOUSE",
+	"status": 0
+}, {
+	"_id": "MMX01",
+	"city": "MALMO",
+	"IATA_code": "MMX",
+	"country": "SWEDEN",
+	"airport": "STURUP",
+	"status": 0
+}, {
+	"_id": "MPM01",
+	"city": "MAPUTO",
+	"IATA_code": "MPM",
+	"country": "MOCAMBIQUE",
+	"airport": "MAPUTO",
+	"status": 0
+}, {
+	"_id": "MQN01",
+	"city": "RØSSVOLL",
+	"IATA_code": "MQN",
+	"country": "NORWAY",
+	"airport": "MO I RANA AIRPORT",
+	"status": 0
+}, {
+	"_id": "MRS01",
+	"city": "MARSEILLE",
+	"IATA_code": "MRS",
+	"country": "FRANCE",
+	"airport": "MARSEILLE",
+	"status": 0
+}, {
+	"_id": "MRW01",
+	"city": "MARIBO",
+	"IATA_code": "MRW",
+	"country": "DENMARK",
+	"airport": "LOLLAND-FALSTER",
+	"status": 0
+}, {
+	"_id": "MUC01",
+	"city": "MUNICH",
+	"IATA_code": "MUC",
+	"country": "GERMANY",
+	"airport": "MUNICH",
+	"status": 0
+}, {
+	"_id": "MXP01",
+	"city": "MILAN",
+	"IATA_code": "MXP",
+	"country": "ITALY",
+	"airport": "MALPENSA",
+	"status": 0
+}, {
+	"_id": "MXZ01",
+	"city": "MEIXIAN",
+	"IATA_code": "MXZ",
+	"country": "CHINA",
+	"airport": "MEIXIAN",
+	"status": 0
+}, {
+	"_id": "NAP01",
+	"city": "NAPLES",
+	"IATA_code": "NAP",
+	"country": "ITALY",
+	"airport": "NAPLES",
+	"status": 0
+}, {
+	"_id": "NBE01",
+	"city": "ENFIDHA",
+	"IATA_code": "NBE",
+	"country": "TUNISIA",
+	"airport": "ENFIDHA AIRPORT",
+	"status": 0
+}, {
+	"_id": "NCE01",
+	"city": "NICE",
+	"IATA_code": "NCE",
+	"country": "FRANCE",
+	"airport": "NICE",
+	"status": 0
+}, {
+	"_id": "NCL01",
+	"city": "NEWCASTLE",
+	"IATA_code": "NCL",
+	"country": "U.K.",
+	"airport": "NEWCASTLE",
+	"status": 0
+}, {
+	"_id": "NCY01",
+	"city": "ANNECY",
+	"IATA_code": "NCY",
+	"country": "FRANCE",
+	"airport": "ANNECY-MEY",
+	"status": 0
+}, {
+	"_id": "NGB01",
+	"city": "NINGBO",
+	"IATA_code": "NGB",
+	"country": "CHINA",
+	"airport": "NINGBO",
+	"status": 0
+}, {
+	"_id": "NNG01",
+	"city": "NANNING",
+	"IATA_code": "NNG",
+	"country": "CHINA",
+	"airport": "NANNING",
+	"status": 0
+}, {
+	"_id": "NTB01",
+	"city": "NOTODDEN",
+	"IATA_code": "NTB",
+	"country": "NORWAY",
+	"airport": "NOTODDEN AIRPORT",
+	"status": 0
+}, {
+	"_id": "NUE01",
+	"city": "NUERNBERG",
+	"IATA_code": "NUE",
+	"country": "GERMANY",
+	"airport": "NUREMBURG",
+	"status": 0
+}, {
+	"_id": "NVS01",
+	"city": "NEVERS",
+	"IATA_code": "NVS",
+	"country": "FRANCE",
+	"airport": "NEVERS (LFQG)",
+	"status": 0
+}, {
+	"_id": "NWI01",
+	"city": "NORWICH",
+	"IATA_code": "NWI",
+	"country": "U.K.",
+	"airport": "NORWICH",
+	"status": 0
+}, {
+	"_id": "NYO01",
+	"city": "STOCKHOLM",
+	"IATA_code": "NYO",
+	"country": "SWEDEN",
+	"airport": "NYK�PING SKAVSTA",
+	"status": 0
+}, {
+	"_id": "ODB01",
+	"city": "CORDOBA",
+	"IATA_code": "ODB",
+	"country": "SPAIN",
+	"airport": "CORDOBA SP",
+	"status": 0
+}, {
+	"_id": "ODE01",
+	"city": "ODENSE",
+	"IATA_code": "ODE",
+	"country": "DENMARK",
+	"airport": "ODENSE",
+	"status": 0
+}, {
+	"_id": "OER01",
+	"city": "ORNSKOLDSVIK",
+	"IATA_code": "OER",
+	"country": "SWEDEN",
+	"airport": "�RNSK�LDSVIK",
+	"status": 0
+}, {
+	"_id": "OHS01",
+	"city": "SOHAR",
+	"IATA_code": "OHS",
+	"country": "OMAN",
+	"airport": "SOHAR AIRPORT",
+	"status": 0
+}, {
+	"_id": "OLA01",
+	"city": "BREKSTAD",
+	"IATA_code": "OLA",
+	"country": "NORWAY",
+	"airport": "ORLAND AIRPORT",
+	"status": 0
+}, {
+	"_id": "OLB01",
+	"city": "OLBIA",
+	"IATA_code": "OLB",
+	"country": "ITALY",
+	"airport": "OLBIA",
+	"status": 0
+}, {
+	"_id": "OOL01",
+	"city": "COOLANGATTA",
+	"IATA_code": "OOL",
+	"country": "AUSTRALIA",
+	"airport": "COOLANGATA",
+	"status": 0
+}, {
+	"_id": "OPO01",
+	"city": "PORTO",
+	"IATA_code": "OPO",
+	"country": "PORTUGAL",
+	"airport": "OPORTO",
+	"status": 0
+}, {
+	"_id": "ORD01",
+	"city": "CHICAGO",
+	"IATA_code": "ORD",
+	"country": "U.S.A.",
+	"airport": "CHICAGO - ORD",
+	"status": 0
+}, {
+	"_id": "ORY01",
+	"city": "PARIS",
+	"IATA_code": "ORY",
+	"country": "FRANCE",
+	"airport": "ORLY",
+	"status": 0
+}, {
+	"_id": "OSD01",
+	"city": "OSTERSUND",
+	"IATA_code": "OSD",
+	"country": "SWEDEN",
+	"airport": "OSTERSUND",
+	"status": 0
+}, {
+	"_id": "OSI01",
+	"city": "OSIJEK",
+	"IATA_code": "OSI",
+	"country": "CROATIA",
+	"airport": "OSIJEK",
+	"status": 0
+}, {
+	"_id": "OSL01",
+	"city": "OSLO",
+	"IATA_code": "OSL",
+	"country": "NORWAY",
+	"airport": "OSLO AIRPORT, GARDERMOEN",
+	"status": 0
+}, {
+	"_id": "OSY01",
+	"city": "NAMSOS",
+	"IATA_code": "OSY",
+	"country": "NORWAY",
+	"airport": "NAMSOS",
+	"status": 0
+}, {
+	"_id": "OTP01",
+	"city": "BUCHAREST",
+	"IATA_code": "OTP",
+	"country": "ROMANIA",
+	"airport": "OTOPENI",
+	"status": 0
+}, {
+	"_id": "OVD01",
+	"city": "ASTURIAS",
+	"IATA_code": "OVD",
+	"country": "SPAIN",
+	"airport": "OVIEDO",
+	"status": 0
+}, {
+	"_id": "OXF01",
+	"city": "LONDON/OXFORD",
+	"IATA_code": "OXF",
+	"country": "U.K.",
+	"airport": "OXFORD",
+	"status": 0
+}, {
+	"_id": "PDL01",
+	"city": "PONTA DELGADA",
+	"IATA_code": "PDL",
+	"country": "PORTUGAL",
+	"airport": "PONTA DELG",
+	"status": 0
+}, {
+	"_id": "PEG01",
+	"city": "PERUGIA",
+	"IATA_code": "PEG",
+	"country": "ITALY",
+	"airport": "PERUGIA",
+	"status": 0
+}, {
+	"_id": "PEK01",
+	"city": "BEIJING",
+	"IATA_code": "PEK",
+	"country": "CHINA",
+	"airport": "BEIJING",
+	"status": 0
+}, {
+	"_id": "PER01",
+	"city": "PERTH",
+	"IATA_code": "PER",
+	"country": "AUSTRALIA",
+	"airport": "PERTH",
+	"status": 0
+}, {
+	"_id": "PFO01",
+	"city": "PAPHOS",
+	"IATA_code": "PFO",
+	"country": "CYPRUS",
+	"airport": "PAPHOS",
+	"status": 0
+}, {
+	"_id": "PIK01",
+	"city": "GLASGOW",
+	"IATA_code": "PIK",
+	"country": "U.K.",
+	"airport": "PRESTWICK",
+	"status": 0
+}, {
+	"_id": "PIS01",
+	"city": "POITIERS",
+	"IATA_code": "PIS",
+	"country": "FRANCE",
+	"airport": "POITIERS-BIARD",
+	"status": 0
+}, {
+	"_id": "PMF01",
+	"city": "PARMA",
+	"IATA_code": "PMF",
+	"country": "ITALY",
+	"airport": "PARMA",
+	"status": 0
+}, {
+	"_id": "PMI01",
+	"city": "PALMA",
+	"IATA_code": "PMI",
+	"country": "SPAIN",
+	"airport": "PALMA",
+	"status": 0
+}, {
+	"_id": "PMO01",
+	"city": "PALERMO",
+	"IATA_code": "PMO",
+	"country": "ITALY",
+	"airport": "PALERMO",
+	"status": 0
+}, {
+	"_id": "PNA01",
+	"city": "PAMPLONA",
+	"IATA_code": "PNA",
+	"country": "SPAIN",
+	"airport": "PAMPLONA",
+	"status": 0
+}, {
+	"_id": "POL01",
+	"city": "PEMBA",
+	"IATA_code": "POL",
+	"country": "MOCAMBIQUE",
+	"airport": "PEMBA",
+	"status": 0
+}, {
+	"_id": "POZ01",
+	"city": "POZNAN",
+	"IATA_code": "POZ",
+	"country": "POLAND",
+	"airport": "POZNAN",
+	"status": 0
+}, {
+	"_id": "PSA01",
+	"city": "PISA",
+	"IATA_code": "PSA",
+	"country": "ITALY",
+	"airport": "PISA",
+	"status": 0
+}, {
+	"_id": "PSR01",
+	"city": "PESCARA",
+	"IATA_code": "PSR",
+	"country": "ITALY",
+	"airport": "PESCARA",
+	"status": 0
+}, {
+	"_id": "PUF01",
+	"city": "PAU",
+	"IATA_code": "PUF",
+	"country": "FRANCE",
+	"airport": "PAU - PYRENEES",
+	"status": 0
+}, {
+	"_id": "PUY01",
+	"city": "PULA",
+	"IATA_code": "PUY",
+	"country": "CROATIA",
+	"airport": "PULA",
+	"status": 0
+}, {
+	"_id": "PVK01",
+	"city": "PREVEZA",
+	"IATA_code": "PVK",
+	"country": "GREECE",
+	"airport": "PREVEZA",
+	"status": 0
+}, {
+	"_id": "QPG01",
+	"city": "SINGAPORE",
+	"IATA_code": "QPG",
+	"country": "SINGAPORE",
+	"airport": "PAYA LEBAR",
+	"status": 0
+}, {
+	"_id": "REG01",
+	"city": "REGGIO DI CALABRIA",
+	"IATA_code": "REG",
+	"country": "ITALY",
+	"airport": "REGGIO",
+	"status": 0
+}, {
+	"_id": "RET01",
+	"city": "0",
+	"IATA_code": "RET",
+	"country": "NORWAY",
+	"airport": "ROST AIRPORT",
+	"status": 0
+}, {
+	"_id": "REU01",
+	"city": "REUS",
+	"IATA_code": "REU",
+	"country": "SPAIN",
+	"airport": "REUS",
+	"status": 0
+}, {
+	"_id": "RHO01",
+	"city": "RHODES",
+	"IATA_code": "RHO",
+	"country": "GREECE",
+	"airport": "RHODES",
+	"status": 0
+}, {
+	"_id": "RJK01",
+	"city": "KRK ISLAND",
+	"IATA_code": "RJK",
+	"country": "CROATIA",
+	"airport": "RIJEKA",
+	"status": 0
+}, {
+	"_id": "RJL01",
+	"city": "LA RIOJA",
+	"IATA_code": "RJL",
+	"country": "SPAIN",
+	"airport": "LA RIOJA",
+	"status": 0
+}, {
+	"_id": "RKE01",
+	"city": "COPENHAGEN",
+	"IATA_code": "RKE",
+	"country": "DENMARK",
+	"airport": "ROSKILDE",
+	"status": 0
+}, {
+	"_id": "RKT01",
+	"city": "RAS AL KHAIMAH",
+	"IATA_code": "RKT",
+	"country": "U.A.E.",
+	"airport": "RAS AL KHA",
+	"status": 0
+}, {
+	"_id": "RMI01",
+	"city": "RIMINI",
+	"IATA_code": "RMI",
+	"country": "ITALY",
+	"airport": "RIMINI",
+	"status": 0
+}, {
+	"_id": "RMU01",
+	"city": "CORVERA",
+	"IATA_code": "RMU",
+	"country": "SPAIN",
+	"airport": "MURCIA INTERNATIONAL",
+	"status": 0
+}, {
+	"_id": "RNB01",
+	"city": "RONNEBY",
+	"IATA_code": "RNB",
+	"country": "SWEDEN",
+	"airport": "RONNEBY K",
+	"status": 0
+}, {
+	"_id": "RNN01",
+	"city": "RONNE",
+	"IATA_code": "RNN",
+	"country": "DENMARK",
+	"airport": "BORNHOLM",
+	"status": 0
+}, {
+	"_id": "RVK01",
+	"city": "VIKNA",
+	"IATA_code": "RVK",
+	"country": "NORWAY",
+	"airport": "RORVIK AIRPORT",
+	"status": 0
+}, {
+	"_id": "SAW01",
+	"city": "ISTANBUL",
+	"IATA_code": "SAW",
+	"country": "TURKEY",
+	"airport": "ISTANBUL - SABIHA GOKCEN",
+	"status": 0
+}, {
+	"_id": "SAY01",
+	"city": "SIENA",
+	"IATA_code": "SAY",
+	"country": "ITALY",
+	"airport": "SIENA",
+	"status": 0
+}, {
+	"_id": "SCQ01",
+	"city": "SANTIAGO",
+	"IATA_code": "SCQ",
+	"country": "SPAIN",
+	"airport": "SANTIAGO",
+	"status": 0
+}, {
+	"_id": "SCS01",
+	"city": "SCATSTA",
+	"IATA_code": "SCS",
+	"country": "U.K.",
+	"airport": "SCATSTA",
+	"status": 0
+}, {
+	"_id": "SDH01",
+	"city": "ORLEANS",
+	"IATA_code": "SDH",
+	"country": "FRANCE",
+	"airport": "ORLEANS",
+	"status": 0
+}, {
+	"_id": "SDL01",
+	"city": "SUNDSVALL",
+	"IATA_code": "SDL",
+	"country": "SWEDEN",
+	"airport": "SUNDSVALL",
+	"status": 0
+}, {
+	"_id": "SDN01",
+	"city": "SANDANE",
+	"IATA_code": "SDN",
+	"country": "NORWAY",
+	"airport": "SANDANE AIRPORT",
+	"status": 0
+}, {
+	"_id": "SDR01",
+	"city": "SANTANDER",
+	"IATA_code": "SDR",
+	"country": "SPAIN",
+	"airport": "SANTANDER",
+	"status": 0
+}, {
+	"_id": "SEN01",
+	"city": "LONDON",
+	"IATA_code": "SEN",
+	"country": "U.K.",
+	"airport": "SOUTHEND",
+	"status": 0
+}, {
+	"_id": "SFA01",
+	"city": "SFAX",
+	"IATA_code": "SFA",
+	"country": "TUNISIA",
+	"airport": "SFAX THYNA AIRPORT",
+	"status": 0
+}, {
+	"_id": "SFJ01",
+	"city": "KANGERLUSSUAQ",
+	"IATA_code": "SFJ",
+	"country": "DENMARK",
+	"airport": "KANGERLUSSUQ (GREENLAND)",
+	"status": 0
+}, {
+	"_id": "SFT01",
+	"city": "SKELLEFTEA",
+	"IATA_code": "SFT",
+	"country": "SWEDEN",
+	"airport": "SKELLEFTEA",
+	"status": 0
+}, {
+	"_id": "SHA01",
+	"city": "SHANGHAI",
+	"IATA_code": "SHA",
+	"country": "CHINA",
+	"airport": "SHANGHAI",
+	"status": 0
+}, {
+	"_id": "SHE01",
+	"city": "SHENYANG",
+	"IATA_code": "SHE",
+	"country": "CHINA",
+	"airport": "SHENYANG TAOXIAN",
+	"status": 0
+}, {
+	"_id": "SHJ01",
+	"city": "SHARJAH",
+	"IATA_code": "SHJ",
+	"country": "U.A.E.",
+	"airport": "SHARJAH",
+	"status": 0
+}, {
+	"_id": "SIN01",
+	"city": "SINGAPORE",
+	"IATA_code": "SIN",
+	"country": "SINGAPORE",
+	"airport": "CHANGI",
+	"status": 0
+}, {
+	"_id": "SKE01",
+	"city": "SKIEN",
+	"IATA_code": "SKE",
+	"country": "NORWAY",
+	"airport": "SKIEN AIRPORT - JET A-1",
+	"status": 0
+}, {
+	"_id": "SKG01",
+	"city": "THESSALONIKI",
+	"IATA_code": "SKG",
+	"country": "GREECE",
+	"airport": "THESSALONI",
+	"status": 0
+}, {
+	"_id": "SKN01",
+	"city": "STOKMARKNES",
+	"IATA_code": "SKN",
+	"country": "NORWAY",
+	"airport": "STOKMARKNES AIRPORT",
+	"status": 0
+}, {
+	"_id": "SLM01",
+	"city": "SALAMANCA",
+	"IATA_code": "SLM",
+	"country": "SPAIN",
+	"airport": "SALAMANCA",
+	"status": 0
+}, {
+	"_id": "SMI01",
+	"city": "SAMOS",
+	"IATA_code": "SMI",
+	"country": "GREECE",
+	"airport": "SAMOS",
+	"status": 0
+}, {
+	"_id": "SNA01",
+	"city": "SANTA ANA",
+	"IATA_code": "SNA",
+	"country": "U.S.A.",
+	"airport": "JOHN WAYNE",
+	"status": 0
+}, {
+	"_id": "SO901",
+	"city": "SOUTHAMPTON",
+	"IATA_code": "SO9",
+	"country": "U.K.",
+	"airport": "S\u0027TON SIG",
+	"status": 0
+}, {
+	"_id": "SOG01",
+	"city": "SOGNDAL",
+	"IATA_code": "SOG",
+	"country": "NORWAY",
+	"airport": "SOGNDAL AIRPORT",
+	"status": 0
+}, {
+	"_id": "SOJ01",
+	"city": "SORKJOSEN/STORSLETT",
+	"IATA_code": "SOJ",
+	"country": "NORWAY",
+	"airport": "SORKJOSEN AIRPORT",
+	"status": 0
+}, {
+	"_id": "SPU01",
+	"city": "SPLIT",
+	"IATA_code": "SPU",
+	"country": "CROATIA",
+	"airport": "SPLIT",
+	"status": 0
+}, {
+	"_id": "SSJ01",
+	"city": "SANDNESSJOEN",
+	"IATA_code": "SSJ",
+	"country": "NORWAY",
+	"airport": "SANDNESSJOEN AIRPORT",
+	"status": 0
+}, {
+	"_id": "STN01",
+	"city": "LONDON",
+	"IATA_code": "STN",
+	"country": "U.K.",
+	"airport": "STANSTED",
+	"status": 0
+}, {
+	"_id": "STR01",
+	"city": "STUTTGART",
+	"IATA_code": "STR",
+	"country": "GERMANY",
+	"airport": "STUTTGART",
+	"status": 0
+}, {
+	"_id": "SUF01",
+	"city": "LAMEZIA",
+	"IATA_code": "SUF",
+	"country": "ITALY",
+	"airport": "LAMEZIA",
+	"status": 0
+}, {
+	"_id": "SVG01",
+	"city": "STAVANGER",
+	"IATA_code": "SVG",
+	"country": "NORWAY",
+	"airport": "STAVANGER AIRPORT",
+	"status": 0
+}, {
+	"_id": "SVJ01",
+	"city": "SVOLVÆR",
+	"IATA_code": "SVJ",
+	"country": "NORWAY",
+	"airport": "SVOLVAER AIRPORT",
+	"status": 0
+}, {
+	"_id": "SVQ01",
+	"city": "SEVILLE",
+	"IATA_code": "SVQ",
+	"country": "SPAIN",
+	"airport": "SEVILLE",
+	"status": 0
+}, {
+	"_id": "SVX01",
+	"city": "YEKATERINBURG",
+	"IATA_code": "SVX",
+	"country": "RUSSIA",
+	"airport": "KOLTCOVO AIRPORT",
+	"status": 0
+}, {
+	"_id": "SWA01",
+	"city": "SHANTOU",
+	"IATA_code": "SWA",
+	"country": "CHINA",
+	"airport": "JIEYANG",
+	"status": 0
+}, {
+	"_id": "SXF01",
+	"city": "BERLIN",
+	"IATA_code": "SXF",
+	"country": "GERMANY",
+	"airport": "BERLIN-SCHONEFELD",
+	"status": 0
+}, {
+	"_id": "SYD01",
+	"city": "SYDNEY",
+	"IATA_code": "SYD",
+	"country": "AUSTRALIA",
+	"airport": "SYDNEY",
+	"status": 0
+}, {
+	"_id": "SYY01",
+	"city": "STORNOWAY",
+	"IATA_code": "SYY",
+	"country": "U.K.",
+	"airport": "STORNOWAY",
+	"status": 0
+}, {
+	"_id": "SZG01",
+	"city": "SALZBURG",
+	"IATA_code": "SZG",
+	"country": "AUSTRIA",
+	"airport": "SALZBURG",
+	"status": 0
+}, {
+	"_id": "SZX01",
+	"city": "SHENZHEN",
+	"IATA_code": "SZX",
+	"country": "CHINA",
+	"airport": "SHENZHEN",
+	"status": 0
+}, {
+	"_id": "SZY01",
+	"city": "SZCZYTNO",
+	"IATA_code": "SZY",
+	"country": "POLAND",
+	"airport": "OLSZTYN-MAZURY",
+	"status": 0
+}, {
+	"_id": "TBJ01",
+	"city": "TABARKA",
+	"IATA_code": "TBJ",
+	"country": "TUNISIA",
+	"airport": "TABARKA AIRPORT",
+	"status": 0
+}, {
+	"_id": "TET01",
+	"city": "TETE",
+	"IATA_code": "TET",
+	"country": "MOCAMBIQUE",
+	"airport": "TETE",
+	"status": 0
+}, {
+	"_id": "TFN01",
+	"city": "TENERIFE",
+	"IATA_code": "TFN",
+	"country": "SPAIN",
+	"airport": "TENERIFE N",
+	"status": 0
+}, {
+	"_id": "TFS01",
+	"city": "TENERIFE-SOUTH",
+	"IATA_code": "TFS",
+	"country": "SPAIN",
+	"airport": "TENERIFE",
+	"status": 0
+}, {
+	"_id": "THN01",
+	"city": "TROLLH�TTAN",
+	"IATA_code": "THN",
+	"country": "SWEDEN",
+	"airport": "TROLLH�TTAN",
+	"status": 0
+}, {
+	"_id": "TIA01",
+	"city": "TIRANA",
+	"IATA_code": "TIA",
+	"country": "ALBANIA",
+	"airport": "TIRANA",
+	"status": 0
+}, {
+	"_id": "TLL01",
+	"city": "TALLINN",
+	"IATA_code": "TLL",
+	"country": "ESTONIA",
+	"airport": "TALLINN",
+	"status": 0
+}, {
+	"_id": "TLN01",
+	"city": "TOULON-HYERES",
+	"IATA_code": "TLN",
+	"country": "FRANCE",
+	"airport": "TOULON - HYERES (LFTH)",
+	"status": 0
+}, {
+	"_id": "TLS01",
+	"city": "TOULOUSE",
+	"IATA_code": "TLS",
+	"country": "FRANCE",
+	"airport": "TOULOUSE",
+	"status": 0
+}, {
+	"_id": "TLV01",
+	"city": "TEL AVIV",
+	"IATA_code": "TLV",
+	"country": "ISRAEL",
+	"airport": "TEL AVIV",
+	"status": 0
+}, {
+	"_id": "TMP01",
+	"city": "TAMPERE",
+	"IATA_code": "TMP",
+	"country": "FINLAND",
+	"airport": "TAMPERE-PIRKKALA AIRPORT",
+	"status": 0
+}, {
+	"_id": "TOE01",
+	"city": "TOZEUR",
+	"IATA_code": "TOE",
+	"country": "TUNISIA",
+	"airport": "TOZEUR AIRPORT",
+	"status": 0
+}, {
+	"_id": "TOS01",
+	"city": "TROMSO",
+	"IATA_code": "TOS",
+	"country": "NORWAY",
+	"airport": "TROMSO� AIRPORT",
+	"status": 0
+}, {
+	"_id": "TRD01",
+	"city": "TRONDHEIM",
+	"IATA_code": "TRD",
+	"country": "NORWAY",
+	"airport": "TRONDHEIM AIRPORT, VAERNES",
+	"status": 0
+}, {
+	"_id": "TRF01",
+	"city": "SANDEFJORD",
+	"IATA_code": "TRF",
+	"country": "NORWAY",
+	"airport": "SANDEFJORD AIRPORT, TORP",
+	"status": 0
+}, {
+	"_id": "TRN01",
+	"city": "TURIN",
+	"IATA_code": "TRN",
+	"country": "ITALY",
+	"airport": "TURIN",
+	"status": 0
+}, {
+	"_id": "TRS01",
+	"city": "TRIESTE",
+	"IATA_code": "TRS",
+	"country": "ITALY",
+	"airport": "TRIESTE",
+	"status": 0
+}, {
+	"_id": "TSF01",
+	"city": "TREVISO",
+	"IATA_code": "TSF",
+	"country": "ITALY",
+	"airport": "TREVISO",
+	"status": 0
+}, {
+	"_id": "TSN01",
+	"city": "TIANJIN",
+	"IATA_code": "TSN",
+	"country": "CHINA",
+	"airport": "TIANJIN",
+	"status": 0
+}, {
+	"_id": "TUN01",
+	"city": "TUNIS",
+	"IATA_code": "TUN",
+	"country": "TUNISIA",
+	"airport": "TUNIS (CARTHAGE)",
+	"status": 0
+}, {
+	"_id": "TXL01",
+	"city": "BERLIN",
+	"IATA_code": "TXL",
+	"country": "GERMANY",
+	"airport": "BERLIN-TEGEL",
+	"status": 0
+}, {
+	"_id": "TYF01",
+	"city": "TORSBY",
+	"IATA_code": "TYF",
+	"country": "SWEDEN",
+	"airport": "TORSBY",
+	"status": 0
+}, {
+	"_id": "TZX01",
+	"city": "TRABZON",
+	"IATA_code": "TZX",
+	"country": "TURKEY",
+	"airport": "TRABZON",
+	"status": 0
+}, {
+	"_id": "UEL01",
+	"city": "QUELIMANE",
+	"IATA_code": "UEL",
+	"country": "MOCAMBIQUE",
+	"airport": "QUELIMANE",
+	"status": 0
+}, {
+	"_id": "UIP01",
+	"city": "QUIMPER",
+	"IATA_code": "UIP",
+	"country": "FRANCE",
+	"airport": "QUIMPER-CORNOUAILLE",
+	"status": 0
+}, {
+	"_id": "UME01",
+	"city": "UMEA",
+	"IATA_code": "UME",
+	"country": "SWEDEN",
+	"airport": "UME�",
+	"status": 0
+}, {
+	"_id": "VAA01",
+	"city": "VAASA",
+	"IATA_code": "VAA",
+	"country": "FINLAND",
+	"airport": "VAASA",
+	"status": 0
+}, {
+	"_id": "VAF01",
+	"city": "VALENCE",
+	"IATA_code": "VAF",
+	"country": "FRANCE",
+	"airport": "VALENCE",
+	"status": 0
+}, {
+	"_id": "VAW01",
+	"city": "VARDO",
+	"IATA_code": "VAW",
+	"country": "NORWAY",
+	"airport": "VARDO",
+	"status": 0
+}, {
+	"_id": "VBS01",
+	"city": "BRESCIA",
+	"IATA_code": "VBS",
+	"country": "ITALY",
+	"airport": "BRESCIA",
+	"status": 0
+}, {
+	"_id": "VCE01",
+	"city": "VENICE",
+	"IATA_code": "VCE",
+	"country": "ITALY",
+	"airport": "TESSERA - VENICE",
+	"status": 0
+}, {
+	"_id": "VDS01",
+	"city": "VADSO",
+	"IATA_code": "VDS",
+	"country": "NORWAY",
+	"airport": "VADSO AIRPORT",
+	"status": 0
+}, {
+	"_id": "VGO01",
+	"city": "VIGO",
+	"IATA_code": "VGO",
+	"country": "SPAIN",
+	"airport": "VIGO",
+	"status": 0
+}, {
+	"_id": "VIE01",
+	"city": "VIENNA",
+	"IATA_code": "VIE",
+	"country": "AUSTRIA",
+	"airport": "VIENNA",
+	"status": 0
+}, {
+	"_id": "VIT01",
+	"city": "VITORIA",
+	"IATA_code": "VIT",
+	"country": "SPAIN",
+	"airport": "VITORIA",
+	"status": 0
+}, {
+	"_id": "VKO01",
+	"city": "MOSCOW",
+	"IATA_code": "VKO",
+	"country": "RUSSIA",
+	"airport": "VNUKOVO",
+	"status": 0
+}, {
+	"_id": "VLC01",
+	"city": "VALENCIA",
+	"IATA_code": "VLC",
+	"country": "SPAIN",
+	"airport": "VALENCIA",
+	"status": 0
+}, {
+	"_id": "VLL01",
+	"city": "VALLADOLID",
+	"IATA_code": "VLL",
+	"country": "SPAIN",
+	"airport": "VALLADOLID",
+	"status": 0
+}, {
+	"_id": "VNX01",
+	"city": "VILANCULOS",
+	"IATA_code": "VNX",
+	"country": "MOCAMBIQUE",
+	"airport": "VILANCULOS",
+	"status": 0
+}, {
+	"_id": "VOL01",
+	"city": "VOLOS",
+	"IATA_code": "VOL",
+	"country": "GREECE",
+	"airport": "VOLOS",
+	"status": 0
+}, {
+	"_id": "VRN01",
+	"city": "VERONA",
+	"IATA_code": "VRN",
+	"country": "ITALY",
+	"airport": "VERONA",
+	"status": 0
+}, {
+	"_id": "VVO01",
+	"city": "VLADIVOSTOK",
+	"IATA_code": "VVO",
+	"country": "RUSSIA",
+	"airport": "VLADIVOSTOK INTL AIRPORT",
+	"status": 0
+}, {
+	"_id": "VXO01",
+	"city": "VAXJO",
+	"IATA_code": "VXO",
+	"country": "SWEDEN",
+	"airport": "VAXJO",
+	"status": 0
+}, {
+	"_id": "WAW01",
+	"city": "WARSAW",
+	"IATA_code": "WAW",
+	"country": "POLAND",
+	"airport": "WARSAW",
+	"status": 0
+}, {
+	"_id": "WLG01",
+	"city": "WELLINGTON",
+	"IATA_code": "WLG",
+	"country": "NEW ZEALAND",
+	"airport": "WELLINGTON",
+	"status": 0
+}, {
+	"_id": "WUH01",
+	"city": "WUHAN",
+	"IATA_code": "WUH",
+	"country": "CHINA",
+	"airport": "WUHAN",
+	"status": 0
+}, {
+	"_id": "WUZ01",
+	"city": "WUZHOU",
+	"IATA_code": "WUZ",
+	"country": "CHINA",
+	"airport": "WUZHOU",
+	"status": 0
+}, {
+	"_id": "XBQ01",
+	"city": "BLOIS",
+	"IATA_code": "XBQ",
+	"country": "FRANCE",
+	"airport": "BLOIS",
+	"status": 0
+}, {
+	"_id": "XFN01",
+	"city": "XIANGYANG",
+	"IATA_code": "XFN",
+	"country": "CHINA",
+	"airport": "XIANGYANG",
+	"status": 0
+}, {
+	"_id": "XRY01",
+	"city": "JEREZ",
+	"IATA_code": "XRY",
+	"country": "SPAIN",
+	"airport": "JEREZ",
+	"status": 0
+}, {
+	"_id": "XSP01",
+	"city": "SINGAPORE",
+	"IATA_code": "XSP",
+	"country": "SINGAPORE",
+	"airport": "SELETAR",
+	"status": 0
+}, {
+	"_id": "XVS01",
+	"city": "VALENCIENNES",
+	"IATA_code": "XVS",
+	"country": "FRANCE",
+	"airport": "VALENCIENN",
+	"status": 0
+}, {
+	"_id": "YIH01",
+	"city": "YICHANG",
+	"IATA_code": "YIH",
+	"country": "CHINA",
+	"airport": "YICHANG",
+	"status": 0
+}, {
+	"_id": "YVR01",
+	"city": "VANCOUVER",
+	"IATA_code": "YVR",
+	"country": "CANADA",
+	"airport": "VANCOUVER",
+	"status": 0
+}, {
+	"_id": "YYZ01",
+	"city": "TORONTO",
+	"IATA_code": "YYZ",
+	"country": "CANADA",
+	"airport": "TORONTO P",
+	"status": 0
+}, {
+	"_id": "ZAD01",
+	"city": "ZADAR",
+	"IATA_code": "ZAD",
+	"country": "CROATIA",
+	"airport": "ZADAR",
+	"status": 0
+}, {
+	"_id": "ZAG01",
+	"city": "ZAGREB",
+	"IATA_code": "ZAG",
+	"country": "CROATIA",
+	"airport": "ZAGREB",
+	"status": 0
+}, {
+	"_id": "ZAZ01",
+	"city": "ZARAGOZA",
+	"IATA_code": "ZAZ",
+	"country": "SPAIN",
+	"airport": "ZARAGOZA",
+	"status": 0
+}, {
+	"_id": "ZHA01",
+	"city": "ZHANJIANG",
+	"IATA_code": "ZHA",
+	"country": "CHINA",
+	"airport": "ZHANJIANG",
+	"status": 0
+}, {
+	"_id": "ZRH01",
+	"city": "ZURICH",
+	"IATA_code": "ZRH",
+	"country": "SWITZ",
+	"airport": "ZURICH",
+	"status": 0
+}, {
+	"_id": "ZTH01",
+	"city": "ZAKINTHOS",
+	"IATA_code": "ZTH",
+	"country": "GREECE",
+	"airport": "ZAKINTHOS",
+	"status": 0
+}, {
+	"_id": "ZYR01",
+	"city": "CRANFIELD",
+	"IATA_code": "ZYR",
+	"country": "U.K.",
+	"airport": "CRANFIELD",
+	"status": 0
+}, {
+	"_id": "ZYS01",
+	"city": "RIYADH",
+	"IATA_code": "ZYS",
+	"country": "SAUDI ARAB",
+	"airport": "RIYADH ABS",
+	"status": 0
+}]
